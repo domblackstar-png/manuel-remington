@@ -1,0 +1,14 @@
+SITE PUBLIC — MANUEL ED REMINGTON
+
+1. Décompressez l'archive ZIP.
+2. Sur GitHub, créez un dépôt public « manuel-remington ».
+3. Envoyez TOUS les fichiers et dossiers du site (index.html, livre.html, galerie.html, contact.html, style.css, ambiance.png, pages/).
+4. Activez Settings > Pages > Deploy from a branch > main > /(root).
+5. Partagez l'adresse GitHub Pages obtenue.
+
+index.html : page d'accueil.
+livre.html : lecteur public avec feuilletage et sommaire.
+galerie.html : galerie des 10 pages.
+contact.html : page À propos (aucune adresse de contact n'a été inventée).
+
+Version publique en lecture seule. Conservez votre éditeur privé séparément.
